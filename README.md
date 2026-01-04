@@ -33,19 +33,4 @@ I am a **Computer Science undergraduate** and **MERN Stack Developer** with a st
 
 ---
 
-## 📌 Featured Projects :
-
-### ✂️ Barber Booking & Management System
-- Full-stack MERN application
-- Role-based authentication (User / Barber / Admin)
-- Appointment booking & shop management
-- Secure APIs using JWT  
-
-### 🌟 SuperNova AI – Intelligent Backend System
-- Backend-focused architecture
-- RESTful APIs with scalability in mind
-- Microservices-based design (learning-focused)
-
----
-
 ⭐ **If you like my work, feel free to star my repositories!**
