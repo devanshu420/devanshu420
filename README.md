@@ -5,8 +5,8 @@
 
 <p align="center">
   <!-- Social Icons -->
-  <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/devanshu-sharma-487617344/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://github.com/devanshu420"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="GitHub"/></a>
 </p>
 
 ---
